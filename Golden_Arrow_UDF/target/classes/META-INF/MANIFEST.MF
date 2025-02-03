@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 17
+Created-By: Maven Integration for Eclipse
+Implementation-Version: 1.0.0
+cashDeskVersions: 2.0 FP13,2.0 FP09, 2.0 FP17
+cashdeskPOSPlugin: com.comzam.sap.cco.plugin.goldenArrow.Plugin
+pluginName: GoldenArrow_UDF
+version: 1.0.0
+
